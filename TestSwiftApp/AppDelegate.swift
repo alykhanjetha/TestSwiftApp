@@ -22,6 +22,8 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         // A second comment.
         
         // A third comment.
+        
+        // A forth comment.
     }
 
     func applicationWillTerminate(_ aNotification: Notification) {
